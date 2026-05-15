@@ -1,0 +1,11 @@
+# 光通信产业链AI分析系统 v2.0
+# 知识图谱 + NLP智能查询
+
+name: photonics-kg-demo
+owner: your-username
+description: 光通信产业链知识图谱 + NLP智能查询系统
+
+# Streamlit Cloud 部署配置
+# 1. 将此仓库连接到 https://share.streamlit.io
+# 2. 主文件: photonics_kg_demo_v2.py
+# 3. 依赖: requirements.txt
